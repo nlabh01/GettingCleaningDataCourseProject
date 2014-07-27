@@ -24,7 +24,6 @@ NOTE: BElow command was used to do the extraction for this codebook:
 
    
 <!-- -->
-
    fBodyAcc-mean-X
    fBodyAcc-mean-Y
    fBodyAcc-mean-Z
