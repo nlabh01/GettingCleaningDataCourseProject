@@ -10,7 +10,7 @@
 
 - Expected output:
     - "tidy_data.txt""
-    - "averages_of_tidy_data.txt"
+    - "average_tidy_data.txt"
 
 NOTE: These two output files generated are included in this GIT Repository.
 
